@@ -1,0 +1,124 @@
+"C:\Program Files\Java\jdk-11.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.3\lib\idea_rt.jar=50404:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\kamal\IdeaProjects\abdulkh_tk_java_20190128\out\production\abdulkh_tk_java_20190128 com.company.Main
+################################
+Pendataan dan Perhitungan IPS
+1.Pendataan mata kuliah
+2.perhitungan IPS
+3.Update grade
+4.daftar matakuliah
+5.Keluar
+################################
+Masukan pilihan anda:
+1
+#### Pendataan matakuliah
+Masukan jumlah matakuliah: 
+3
+#### Pendataan matakuliah
+masukan kode matakuliah	:
+mat1
+masukan nama matakuliah	:
+statistic
+masukan grade matakuliah	:
+b
+masukan jumlah sks 		:
+4
+#### Pendataan matakuliah
+masukan kode matakuliah	:
+bhs2
+masukan nama matakuliah	:
+bahasa indonesia
+masukan grade matakuliah	:
+b
+masukan jumlah sks 		:
+2
+#### Pendataan matakuliah
+masukan kode matakuliah	:
+pjv1
+masukan nama matakuliah	:
+programing java
+masukan grade matakuliah	:
+a
+masukan jumlah sks 		:
+4
+################################
+Pendataan dan Perhitungan IPS
+1.Pendataan mata kuliah
+2.perhitungan IPS
+3.Update grade
+4.daftar matakuliah
+5.Keluar
+################################
+Masukan pilihan anda:
+2
+#### List matakuliah
+1|MAT1|STATISTIC|B|4
+2|BHS2|BAHASA INDONESIA|B|2
+3|PJV1|PROGRAMING JAVA|A|4
+total SKS	:10
+IP			:3.4
+#### oOo  ####
+################################
+Pendataan dan Perhitungan IPS
+1.Pendataan mata kuliah
+2.perhitungan IPS
+3.Update grade
+4.daftar matakuliah
+5.Keluar
+################################
+Masukan pilihan anda:
+4
+#### List matakuliah
+1|MAT1|STATISTIC|B|4
+2|BHS2|BAHASA INDONESIA|B|2
+3|PJV1|PROGRAMING JAVA|A|4
+#### oOo  ####
+################################
+Pendataan dan Perhitungan IPS
+1.Pendataan mata kuliah
+2.perhitungan IPS
+3.Update grade
+4.daftar matakuliah
+5.Keluar
+################################
+Masukan pilihan anda:
+3
+#### Update grade
+masukan kode matakuliah:
+bhs2
+masukan grade matakuliah:
+a
+************ update
+** Kode matakuliah 		:BHS2
+** Nama matakuliah 		:BAHASA INDONESIA
+** Grade matakuliah (before)	:B
+** Grade matakuliah (after)	:A
+** sks matakuliah 		:2
+*** perubahan selesai ***
+################################
+Pendataan dan Perhitungan IPS
+1.Pendataan mata kuliah
+2.perhitungan IPS
+3.Update grade
+4.daftar matakuliah
+5.Keluar
+################################
+Masukan pilihan anda:
+2
+#### List matakuliah
+1|MAT1|STATISTIC|B|4
+2|BHS2|BAHASA INDONESIA|A|2
+3|PJV1|PROGRAMING JAVA|A|4
+total SKS	:10
+IP			:3.6
+#### oOo  ####
+################################
+Pendataan dan Perhitungan IPS
+1.Pendataan mata kuliah
+2.perhitungan IPS
+3.Update grade
+4.daftar matakuliah
+5.Keluar
+################################
+Masukan pilihan anda:
+5
+
+Process finished with exit code 0
